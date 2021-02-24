@@ -54,5 +54,5 @@ General questions:
 15)Average rating of each product in our online store?
 
 Use-case UML diagram:
-(/UML.jpg)
+![alt text](/UML.jpg)
 
