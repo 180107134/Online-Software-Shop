@@ -38,20 +38,20 @@ We will use Java programming language, as well as MySQL database. Because, for u
 
 General questions:
 1)Find the most expensive price?<br>
-3)Find the most popular license?
-4)Find members who bought all license?
-5)Сount as many comments as possible from the license?
-6)Which product sold more?
-7)Display how many products was selected by member?
-8)Which license scored only the highest mark by member?
-9)Which license was most rejected?
-10)Сalculate the total number of products sold?
-11)Find  members by the average rating for one product?
-12)Find a buyer who has bought a large number of products and left a rating?
-13)Find user who left both rating and comment?
-14)What roles and access does the program have?
-15)What types of programs do we sell?
-16)Average rating of each product in our online store?
+3)Find the most popular license?<br>
+4)Find members who bought all license?<br>
+5)Сount as many comments as possible from the license?<br>
+6)Which product sold more?<br>
+7)Display how many products was selected by member?<br>
+8)Which license scored only the highest mark by member?<br>
+9)Which license was most rejected?<br>
+10)Сalculate the total number of products sold?<br>
+11)Find  members by the average rating for one product?<br>
+12)Find a buyer who has bought a large number of products and left a rating?<br>
+13)Find user who left both rating and comment?<br>
+14)What roles and access does the program have?<br>
+15)What types of programs do we sell?<br>
+16)Average rating of each product in our online store?<br>
 
 Use-case UML diagram:
 ![alt text](/UML.jpg)
