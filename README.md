@@ -1,7 +1,7 @@
 # Online-Software-Shop
 Online Software Shop
 
-**2. Project description**
+h1 **2. Project description**
 
 1) Define and describe the project goal and its applications as well as its benefits in the real-world. Describe the problem and its solution that you propose.
 
@@ -34,7 +34,7 @@ description.
 
 We will use Java programming language, as well as MySQL database. Because, for us, it is much more understandable, and since we learned Java in the previous semesters, Java is much more convenient for us.
 
-**3. Project Use-Case diagram and questions over the data**
+h1**3. Project Use-Case diagram and questions over the data**
 
 General questions:
 1)Find the most expensive price?
