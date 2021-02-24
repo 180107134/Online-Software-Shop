@@ -37,8 +37,7 @@ We will use Java programming language, as well as MySQL database. Because, for u
 **3. Project Use-Case diagram and questions over the data**
 
 General questions:
-1)Find the most expensive price?
-
+1)Find the most expensive price?<br>
 3)Find the most popular license?
 4)Find members who bought all license?
 5)Сount as many comments as possible from the license?
