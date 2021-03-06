@@ -71,7 +71,7 @@ All transactions with client and admin, like add in the backet product, buying s
 
 ![alt text](/ERD.jpg)
 
-![DDL queries](/DDL.sql)
+[DDL queries](/DDL.sql)
 
-![DML queries](/DML.sql)
+[DML queries](/DML.sql)
 
