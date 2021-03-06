@@ -56,3 +56,18 @@ General questions:<br>
 Use-case UML diagram:
 ![alt text](/UML.jpg)
 
+**4. Data modeling and database design**
+
+ER Diagram
+
+All our products are stored in «Product» table.
+All information about clients are stored in «Member» table.
+We have a windows, linux and mac products, so this types of products are stored in «ProductType» table.
+Clients backet with product/products are stored in «Card» table.
+We have a windows, linux and mac categories of products, so this rating type of categories are stored in «RatingType» table.
+All ratings about selected product stored in «Rating» table.
+All comments from clients about products are stored in «Comments» table.
+All transactions with client and admin, like add in the backet product, buying selected product and etc. are stored in «Transactions» table.
+
+![alt text](/ERD.jpg)
+
