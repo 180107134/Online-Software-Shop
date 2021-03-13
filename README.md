@@ -79,5 +79,5 @@ DML<br>
 
 **5. SQL queries**
 
-SQL queries stored in the [SQL queries](/SQL queries) folder.
+SQL queries stored in the [SQL queries](main/SQL queries) folder.<br>
 
