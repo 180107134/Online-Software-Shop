@@ -77,3 +77,7 @@ DDL<br>
 DML<br>
 [DML queries](/DML.sql)
 
+**5. SQL queries**
+
+SQL queries stored in the "main/SQL Queries" folder.
+
