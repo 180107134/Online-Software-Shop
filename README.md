@@ -84,10 +84,10 @@ SQL queries stored in the "/SQL queries" folder.<br>
 
 **6.UI implementation and DB connectionAssignment**
 
-1.We have created application that is stored in the "/SoftSale" folder.
+1. We have created application that is stored in the "/SoftSale" folder.
 
-2.We connected the Oracle database server. The code for connecting the database is stored in the "/settings.ini" file.
+2. We connected the Oracle database server. The code for connecting the database is stored in the "/settings.ini" file.
 
-3.All transactions are in the "/ONLINESTOREDATABASEDIAGRAM.docx" file
+3. All transactions are in the "/ONLINESTOREDATABASEDIAGRAM.docx" file
 
 
