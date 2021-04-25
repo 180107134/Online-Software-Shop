@@ -90,4 +90,6 @@ SQL queries stored in the "/SQL queries" folder.<br>
 
 3. All transactions are in the "/ONLINESTOREDATABASEDIAGRAM.docx" file
 
+It's  demonstration of our project.
 
+https://www.youtube.com/watch?v=okLhb7aJagE
