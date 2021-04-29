@@ -93,3 +93,7 @@ SQL queries stored in the "/SQL queries" folder.<br>
 It's  demonstration of our project.
 
 https://www.youtube.com/watch?v=okLhb7aJagE
+
+It's  presentation.
+
+https://youtu.be/A-tynzXO69o
